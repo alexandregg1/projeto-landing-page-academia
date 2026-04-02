@@ -1,13 +1,11 @@
 ## 🏋️ Academia M2 Move - Landing Page
-https://img.shields.io/badge/status-em%2520desenvolvimento-yellow
-https://img.shields.io/badge/responsivo-sim-brightgreen
-https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Responsivo](https://img.shields.io/badge/responsivo-sim-brightgreen)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 Landing page oficial da Academia M2 Move, desenvolvida para apresentar a infraestrutura completa, modalidades esportivas e canais de contato da academia. O projeto conta com menu de navegação fixo, seção de benefícios, carrossel de imagens automático, mapa interativo e links diretos para redes sociais.
 
-https://via.placeholder.com/800x400?text=Landing+Page+M2+Move
-(Substitua pela imagem real do seu projeto)
 
 ## 📋 Sobre o Projeto
 A Landing Page da M2 Move tem como objetivo:

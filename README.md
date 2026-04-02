@@ -4,7 +4,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-Landing page oficial da Academia M2 Move, desenvolvida para apresentar a infraestrutura completa, modalidades esportivas e canais de contato da academia. O projeto conta com menu de navegação fixo, seção de benefícios, carrossel de imagens automático, mapa interativo e links diretos para redes sociais.
+## > ⚠️ **Aviso:** Este projeto é um **estudo pessoal** e uma **simulação de landing page**. Não possui vínculo oficial com a Academia M2 Move ou qualquer estabelecimento real. Desenvolvido apenas para fins educacionais e de portfólio.
 
 
 ## 📋 Sobre o Projeto
